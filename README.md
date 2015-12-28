@@ -1,5 +1,5 @@
-# GrennDAODome
-GrennDAOdome
+# GreenDAODome
+GreenDAOdome
 
 
 
