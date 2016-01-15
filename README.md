@@ -1,9 +1,9 @@
-# GreenDAODome
-GreenDAOdome
+# GreenDAODemo
+GreenDAOdemeo
 
 
 
-![](https://github.com/longtaoge/GrennDAODome/blob/master/image/grenndao13.png)
+![](https://github.com/longtaoge/GrennDAODemo/blob/master/image/grenndao13.png)
 
 
 
